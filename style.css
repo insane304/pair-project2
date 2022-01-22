@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFC473;
+}
+
+header {
+    background-color: #FF0000;
+}
+
+main img {
+    width: 400px;
+    height: 250px;
+}
+
+main p {
+    color: black;
+    border: 6px double darkred
+} 
+
+footer {
+    background-color: #FF0000;
+}
+
+a {
+    border: 2px inset darkred;
+    text-decoration: none;
+    color: black;
+}
